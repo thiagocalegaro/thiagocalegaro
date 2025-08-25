@@ -67,6 +67,9 @@
 
 ###
 ## 🚀 Main Projects
+- [**Room Booking API (room-booking-api)**](https://github.com/thiagocalegaro/room-booking-api)  
+  A room booking API for the Colégio Politécnico - UFSM, currently under development.  
+  ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
 - [**Services Management System (gestao_tarefas)**](https://github.com/thiagocalegaro/gestao_tarefas)  
   A Java application designed to manage the services of employees of companies.
