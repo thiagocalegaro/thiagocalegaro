@@ -80,7 +80,7 @@
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 
 - [**Lisbon Metro Station Graph (estacao_metro)**](https://github.com/thiagocalegaro/estacao_metro)  
-  A project modeling the Lisbon metro system using graphs (graph theory).  
+  A project modeling the Lisbon metro system using graphs.  
   ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) ![Graph Theory](https://img.shields.io/badge/Graph%20Theory-4B0082)
 
 <div align="center">
