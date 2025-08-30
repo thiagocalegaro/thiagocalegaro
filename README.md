@@ -71,8 +71,8 @@
   A room booking API for the Colégio Politécnico - UFSM, currently under development.  
   ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
-- [**Services Management System (gestao_tarefas)**](https://github.com/thiagocalegaro/gestao_tarefas)  
-  A Java application designed to manage the services of employees of companies.
+- [**Services Management System API(gestao_servicos_api)**](https://github.com/thiagocalegaro/gestao_servicos_api)  
+  A API Rest designed to manage the services of employees of companies.
   <br>![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
 
 - [**Task Manager App (taskmanager_app)**](https://github.com/thiagocalegaro/taskmanager_app)  
